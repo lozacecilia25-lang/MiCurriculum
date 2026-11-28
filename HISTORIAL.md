@@ -19,3 +19,4 @@ Registro de acciones realizadas.
 - **2026-11-26 21:35** - Se creó el archivo Word Mis_Datos.docx en el repositorio con campos de datos personales para completar.
 - **2026-11-27 11:51** - Se configuró Git en el repo con nombre 'PATRICIA CECILIA LOZA' y correo 'lozacecilia25@gmail.com'. Se actualizó Mis_Datos.docx con nombre, apellido y correo.
 - **2026-11-27 12:04** - Se actualizó Mis_Datos.docx con datos profesionales completos de Patricia Cecilia Loza (contacto, perfil, experiencia, formación y habilidades) en formato profesional.
+- **2026-11-28 07:11** - Se creó Introduccion_a_Git_y_GitHub.docx con guía formal sobre Git/GitHub, comandos, cuándo aplicarlos y en qué programas usarlos.
