@@ -17,3 +17,5 @@ Registro de acciones realizadas.
 - **Registro**: Se creÃ³ este archivo `HISTORIAL.md` y se actualizÃ³ `README.md` para dejar constancia de las acciones.
 - **2026-11-26 21:33** - Se creó AGENTS.md con instrucciones: 'subí los cambios' = commit+push, 'bajá los cambios' = pull, 'guardá una versión' = solo commit; siempre sobre este repositorio. Se mantiene registro en HISTORIAL.md y README.md.
 - **2026-11-26 21:35** - Se creó el archivo Word Mis_Datos.docx en el repositorio con campos de datos personales para completar.
+- **2026-11-27 11:51** - Se configuró Git en el repo con nombre 'PATRICIA CECILIA LOZA' y correo 'lozacecilia25@gmail.com'. Se actualizó Mis_Datos.docx con nombre, apellido y correo.
+- **2026-11-27 12:04** - Se actualizó Mis_Datos.docx con datos profesionales completos de Patricia Cecilia Loza (contacto, perfil, experiencia, formación y habilidades) en formato profesional.
